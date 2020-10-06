@@ -1,0 +1,31 @@
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\School Project.exe
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\School Project.deps.json
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\School Project.runtimeconfig.json
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\School Project.runtimeconfig.dev.json
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\School Project.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\School Project.pdb
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Ville\Documents\School Project\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.csprojAssemblyReference.cache
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.AssemblyInfoInputs.cache
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.AssemblyInfo.cs
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.csproj.CoreCompileInputs.cache
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.RazorTargetAssemblyInfo.cache
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.csproj.CopyComplete
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\staticwebassets\School Project.StaticWebAssets.Manifest.cache
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\staticwebassets\School Project.StaticWebAssets.xml
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.dll
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.pdb
+C:\Users\Ville\Documents\School Project\obj\Debug\netcoreapp3.1\School Project.genruntimeconfig.cache
